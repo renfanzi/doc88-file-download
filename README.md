@@ -59,6 +59,7 @@ pip3 install cairosvg
 ffdec安装
 ```
 - 如果ffdec文件夹下没有内容，需要下载并解压放到ffdec目录下
+- <br>[ffdec](https://release-assets.githubusercontent.com/github-production-release-asset/19647328/f4b8bbf8-5efc-4fea-8261-059c43e17485?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-11-18T15%3A17%3A44Z&rscd=attachment%3B+filename%3Dffdec_24.1.1.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-11-18T14%3A17%3A10Z&ske=2025-11-18T15%3A17%3A44Z&sks=b&skv=2018-11-09&sig=js8mDzHkVtjDUZmjmy6%2FjXOJgI5tPgdc4fhH9MWUA7k%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2MzQ3NzQ0MSwibmJmIjoxNzYzNDc1NjQxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.pRSLpUpMhNVqXLByeXydOXPzNO8rHWZs1AAHIk7nQxU&response-content-disposition=attachment%3B%20filename%3Dffdec_24.1.1.zip&response-content-type=application%2Foctet-stream)
 
 
 ## 如何使用 / How to Use
