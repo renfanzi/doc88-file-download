@@ -6,13 +6,13 @@
 一个可以完整提取道客巴巴预览文档（非截图）的工具。这个代码不是我写的，我从别的github中本地跑了一下，又上传到自己的github做保存的  
 A tool to extract and convert doc88 documents (non-screenshot).
 环境安装：
-    1、安装python
-    2、安装python依赖
-    3、安装java
-    4、cairosvg
-    5、安装gtk
-    6、安装ffdec
-注意：这个代码只是为了大家使用，所以发现里面有部分功能逻辑待补全，请正确使用。
+-     1、安装python
+-     2、安装python依赖
+-     3、安装java
+-     4、cairosvg
+-     5、安装gtk
+-     6、安装ffdec
+- 注意：这个代码只是为了大家使用，所以发现里面有部分功能逻辑待补全，请正确使用。
 
 ## 特点 / Featuresdocd
 
